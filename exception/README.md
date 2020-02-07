@@ -11,18 +11,23 @@
 ## Exception Blocks
 
 	>Try 
+	
 		- This block is used to try the code that may cause exception and throws it
 
 	>catch
+
 		- This block is used to catch the exception thrown by try block and checks what type it is
 
 	>finally
+
 	 	- This block is used to run a set of code that has to be run no matter the method is exited or not
 
 	 >throw
+
 	  	- This block is used to throw specific exceptions manually
 
 	 >throws 
+
 	 	- This block is used to throw multiple exceptions manually
 	 	- It is done by using it besides the method definitions
 	 	- If a method with throw exception is used inside another method then the method alson must throw the exception
