@@ -32,8 +32,8 @@ The adapter classes are found in java.awt.event, java.awt.dnd and javax.swing.ev
 |MouseInputAdapter	|MouseInputListener|
 |InternalFrameAdapter	|InternalFrameListener|
 
-[KeyAdapter Example](https://github.com/Alson33/JavaAssignment/blob/master/Event%20handling/Qn-3(adaptor%20class)/KeyAdapterDemo.java);
+[KeyAdapter Example](https://github.com/Salipa-Gurung/Assignment-of-Java-/tree/master/event%20handling/question-no-2/KeyAdapterDemo.java);
 
-[MouseAdapter Example](https://github.com/Alson33/JavaAssignment/blob/master/Event%20handling/Qn-3(adaptor%20class)/MouseAdapterDemo.java);
+[MouseAdapter Example](https://github.com/Salipa-Gurung/Assignment-of-Java-/tree/master/event%20handling/question-no-2/MouseAdapterDemo.java);
 
-[MouseMotionAdapter Example](https://github.com/Alson33/JavaAssignment/blob/master/Event%20handling/Qn-3(adaptor%20class)/MouseMotionAdapterDemo.java);
+[MouseMotionAdapter Example](https://github.com/Salipa-Gurung/Assignment-of-Java-/tree/master/event%20handling/question-no-2/MouseMotionAdapterDemo.java);
