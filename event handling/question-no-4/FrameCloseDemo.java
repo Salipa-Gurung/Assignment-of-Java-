@@ -1,12 +1,12 @@
 import java.awt.*;  
 import java.awt.event.*;  
 
-class CloseFrame extends WindowAdapter{  
+class CloseFrameDemo extends WindowAdapter{  
     Frame f;  
 
-    CloseFrame()
+    CloseFrameDemo()
     {  
-        f=new Frame();  
+        f = new Frame();  
         f.addWindowListener(this);  
           
         f.setSize(400,400);  
@@ -21,6 +21,6 @@ class CloseFrame extends WindowAdapter{
 
     public static void main(String[] args) 
     {  
-        new CloseFrame();  
+        new CloseFrameDemo();  
     }  
 }  
